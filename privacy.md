@@ -1,4 +1,4 @@
-# Mirror & Root
+# Mirror & Root Privacy Policy
 
 ## プライバシーポリシー
 
