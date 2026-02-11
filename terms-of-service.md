@@ -1,4 +1,4 @@
-# Mirror & Root　Terms of Service
+# Mirror & Root Terms of Service
 
 ## 利用規約
 
