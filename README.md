@@ -52,4 +52,4 @@
 ## お問い合わせ
 本アプリに関するお問い合わせ、不具合の報告、ご意見などは、以下のフォームよりお願いいたします。
 
-[Googleフォームへのリンク]
+[Googleフォームへのリンク](https://docs.google.com/forms/d/e/1FAIpQLSfWSzlGXeCnI7BaOCqGd-TyPoX5UlcSFMVzPFbll_ZYZRI1NQ/viewform?usp=sf_link)
